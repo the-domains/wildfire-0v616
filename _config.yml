@@ -1,0 +1,14 @@
+layout_spectrum: 0.9284895113669336
+typography_spectrum: 0.6954925658646971
+color:
+  brandStrength: 0.7660968285053968
+  lightness: 0.6635701870545745
+  saturation: 0.17881052754819393
+  rhythmicContrast: 0.9914584665093571
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Wildfire
