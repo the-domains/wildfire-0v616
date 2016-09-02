@@ -1,16 +1,16 @@
-typography_spectrum: 0.6954925658646971
+layout_spectrum: 0.6491819084621966
+typography_spectrum: 0.5343394654337317
 color:
-  brandStrength: 0.7660968285053968
-  lightness: 0.6635701870545745
-  saturation: 0.17881052754819393
-  rhythmicContrast: 0.9914584665093571
+  brandStrength: 0.1895215199328959
+  lightness: 0.08731896197423339
+  saturation: 0.26571462606079876
+  rhythmicContrast: 0.6183526089880615
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.9284895113669336
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b1ebe4f-a0e3-4a7f-b82e-b6c77e2357eb.png
 name: Wildfire
